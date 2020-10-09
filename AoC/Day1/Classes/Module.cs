@@ -27,7 +27,6 @@ namespace AoC.Day1.Classes
                 return 0;
             }
 
-            
             return fuel + _GetFuel(fuel);
         }
     }
