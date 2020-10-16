@@ -1,4 +1,4 @@
-﻿using AoC.Day1.Classes;
+﻿using AoC.Day2.Classes;
 using System;
 
 namespace AoC
@@ -7,7 +7,7 @@ namespace AoC
     {
         static void Main(string[] args)
         {
-            Day1.Entry.Run();
+            Day2.Entry.Run();
         }
     }
 }
